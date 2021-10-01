@@ -2,5 +2,5 @@
 
 Python File that can read your mind using a simple table algorithm
 
-Instagram - @_.itz__prince._
+Instagram - @_ _.itz__prince.__
 Email     - prince12345keshri@gmail.com
