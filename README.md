@@ -1,6 +1,5 @@
-# mind_reader.py
+# Mind Reader
+
+`You need to have python installed to use this project`
 
 Python File that can read your mind using a simple table algorithm
-
-Instagram - @_.itz__prince. _
-Email     - prince12345keshri@gmail.com
