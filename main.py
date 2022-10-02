@@ -1,5 +1,7 @@
 from time import sleep
+
 print("\n\n")
+
 print("MM            MM       RRRRRRRRR       ")
 sleep(0.8)
 a = "Pri"
@@ -24,6 +26,7 @@ sleep(1.1)
 print("\n\n")
 print("__"*20)
 print("This code is created by "+a+b+c+"hri *^*")
+
 print("Guess a no. from 0 to 10 and answers\nthe questions\n Y for yes and N for no")
 print("\n\n")
 boole = True
@@ -33,19 +36,20 @@ while(boole):
     n1 = n1.upper()
     if n1 == "Y" or n1 == "N":
       break
-    else:
-      continue
+#     else:
+#       continue No need of continue.
   if n1 == "Y":
     t1 = 1
   else:
     t1 = 0
+    
   while(True):
     n2 = input("Is that no. in 2,6,9,10 :- ")
     n2 = n2.upper()
     if n2 == "Y" or n2 == "N":
       break
-    else:
-      continue
+#     else:
+#       continue No need of continue
   if n2 == "Y":
     t2 = 2
   else:
@@ -55,8 +59,8 @@ while(boole):
     n3 = n3.upper()
     if n3 == "Y" or n3 == "N":
       break
-    else:
-      continue
+#     else:
+#       continue No need of continue
   if n3 == "Y":
     t3 = 3
   else:
@@ -66,8 +70,9 @@ while(boole):
     n4 = n4.upper()
     if n4 == "Y" or n4 == "N":
       break
-    else:
-      continue
+#     else:
+#       continue
+
   if n4 == "Y":
     t4 = 4
   else:
@@ -79,8 +84,8 @@ while(boole):
     temp = temp.upper()
     if temp == "Y" or temp =="N":
       break
-    else:
-      continue
+#     else:
+#       continue no need of continue
   if temp == "Y":
     continue
   else:
