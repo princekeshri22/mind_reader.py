@@ -4,13 +4,13 @@ print("\n\n")
 
 print("MM            MM       RRRRRRRRR       ")
 sleep(0.8)
-a = "Pri"
+a = "P" + "r" + "i"
 print("MMMM        MMMM       RRRRRRRRRR      ")
 sleep(0.8)
-b = "nce"
+b = "n" + "c" + "e"
 print("MM  MM    MM  MM       RR      RR      ")
 sleep(0.8)
-c = " Kes"
+c = " K" + "e" + "s"
 print("MM    MMMM    MM       RRRRRRRRRR      ")
 sleep(0.8)
 print("MM     MM     MM       RRRRRRRRR       ")
